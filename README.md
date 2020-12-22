@@ -2,8 +2,8 @@
 
 API from https://www.iqair.com/id/
 
-![Screenshot_1608628404](https://user-images.githubusercontent.com/54944887/102871293-d4136980-4470-11eb-8694-318b5570e216.png)
+![1](https://user-images.githubusercontent.com/54944887/102871855-8814f480-4471-11eb-8a9e-ec026eb73c19.png)
 
-![Screenshot_1608628408](https://user-images.githubusercontent.com/54944887/102871298-d675c380-4470-11eb-86a8-3d8aa307ff9a.png)
+![2](https://user-images.githubusercontent.com/54944887/102871861-89deb800-4471-11eb-8691-e6b928335fba.png)
 
-![Screenshot_1608628412](https://user-images.githubusercontent.com/54944887/102871304-d83f8700-4470-11eb-94f2-dcbec9c5c69f.png)
+![3](https://user-images.githubusercontent.com/54944887/102871866-8b0fe500-4471-11eb-92a0-ea0d29263c2f.png)
